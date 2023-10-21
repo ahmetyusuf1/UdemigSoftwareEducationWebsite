@@ -14,6 +14,17 @@
 
 </ul>
 
+<h2>Used Technologies</h2>
+
+<ul>
+
+<li>HTML</li>
+<li>HTML5</li>
+<li>CSS</li>
+<li>Bootstrap 5</li>
+
+</ul>
+
 <h1>Screen Gif</h1>
 
 <img src="./images/udemigwebsite.gif"/>
