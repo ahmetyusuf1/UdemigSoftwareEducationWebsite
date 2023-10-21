@@ -21,7 +21,7 @@
 <li>HTML</li>
 <li>HTML5</li>
 <li>CSS</li>
-<li>Bootstrap 5</li>
+<li>Bootstrap</li>
 
 </ul>
 
