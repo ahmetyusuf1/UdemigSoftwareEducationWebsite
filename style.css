@@ -1,0 +1,9 @@
+body::before {
+    content: '';
+    display: block;
+    height: 60px;
+}
+
+.instructors i {
+    cursor: pointer;
+}
