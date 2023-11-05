@@ -1,5 +1,7 @@
 <h1>Udemig Web Site</h1>
 
+<p>This project is a software course website.</p>
+
 <h2>Content</h2>
 
 <ul>
