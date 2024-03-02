@@ -1,4 +1,4 @@
-<h1>Udemig Web Site Project</h1>
+<h1>Udemig Software Education Project</h1>
 
 <p>This project is a software course website.</p>
 
