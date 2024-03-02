@@ -1,6 +1,6 @@
 <h1>Udemig Software Education Project</h1>
 
-<p>This project is a software course website.</p>
+<p>This is a website where a software training company promotes their services and themselves.</p>
 
 <h2>Project Content</h2>
 
